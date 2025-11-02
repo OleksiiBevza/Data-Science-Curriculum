@@ -3,8 +3,11 @@ The idea of this repository is to gather the theoretical background needed to pe
 The repository includes two main folders — Mathematics and Computer Science — each divided into four sections:
 
 (i) Prerequisites
+
 (ii) Undergraduate curriculum
+
 (iii) Postgraduate curriculum
+
 (iv) PhD level
 
 # Mathematics
@@ -13,7 +16,7 @@ The repository includes two main folders — Mathematics and Computer Science �
 
 | **Topic** | **Description** |
 |:-----------|:-------------------------------------|
-| **Precalculus** | [Video 1](#) &nbsp;&nbsp;&nbsp; [Video 2](#) &nbsp;&nbsp;&nbsp; [Video 3](#) |
+| **Precalculus** | The course includes two books with exercises (learners may choose either one) and accompanying video materials [Videos 1](https://www.youtube.com/watch?v=9OOrhA2iKak&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) &nbsp;&nbsp;&nbsp; [Videos 2](https://mathispower4u.com/alg-2.php) &nbsp;&nbsp;&nbsp; [Videos 3](https://mathispower4u.com/trigonometry.php) |
 | **Calculus (Single and Multi-variable)** | — |
 | **Ordinary Differential Equations** | — |
 | **Introduction to Linear Algebra** | — |
