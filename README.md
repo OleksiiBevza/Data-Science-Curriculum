@@ -17,7 +17,7 @@ The repository includes two main folders — Mathematics and Computer Science �
 | **Topic** | **Description** |
 |:-----------|:-------------------------------------|
 | **Precalculus** | The course includes two books with exercises (learners may choose either one) and accompanying video materials: [Set of Videos 1](https://www.youtube.com/watch?v=9OOrhA2iKak&list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) &nbsp;&nbsp;&nbsp; [Set of Videos 2](https://mathispower4u.com/alg-2.php) &nbsp;&nbsp;&nbsp; [Set of Videos 3](https://mathispower4u.com/trigonometry.php) |
-| **Calculus (Single and Multi-variable)** | — |
+| **Calculus (Single and Multi-variable)** |  The course includes two books with exercises (learners may choose either one) and accompanying video materials:| [Set of Videos 1](https://mathispower4u.com/linear-alg.php) (Calculus I, Calculus II, Calculus III should be taken ino account), [Set of Videos 2](https://www.youtube.com/@ProfessorLeonard/courses), (Calculus I, Calculus II, Calculus III should be taken ino account) [Set of Videos 4 ](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) (single-variable calculus), [Set of Videos 5](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/) (multivariable calculus)
 | **Ordinary Differential Equations** | — |
 | **Linear Algebra I** | — |
 
