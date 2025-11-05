@@ -1,6 +1,4 @@
-The idea of this repository is to gather the theoretical background needed to perform complex data analysis. It is intended for people who want to deepen their knowledge in Data Science and Machine Learning.
-
-The repository includes two main folders — Mathematics and Computer Science — each divided into four sections:
+The idea of this repository is to create a rigorous undergraduate and postgraduate curriculum in data science.The repository includes two main folders: Mathematics and Computer Science - each divided into four sections:
 
 (i) Prerequisites
 
