@@ -23,8 +23,8 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
 
 | **Topic** | **Description** |
 |:-----------|:-------------------------------------|
-| **Introduction to probability and inference** | - |
-| **Discrete mathematics and set theory** | — |
+| **Introduction to probability and inference** | The course includes two books with exercises and solutions. It is essential to do as many exercises as possible and to understand the topics presented, because this course forms the foundation of machine learning. Prerequisites: Calculus, Ordinary Differential Equations, Linear Algebra I. Accompanying materials:  &nbsp;&nbsp;&nbsp; [Set13](https://stat110.hsites.harvard.edu/)|
+| **Discrete mathematics and set theory** | The course includes two books with exercises and serve as an introduction to set theory and discrete mathematics. Prerequisites: Calculus, Ordinary Differential Equations, Linear Algebra I. Accompanying materials: &nbsp;&nbsp;&nbsp; [Set14](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/pages/syllabus/) |
 | **Real analysis** | — |
 | **Functional analysis** | — |
 | **Measure theory** | — |
