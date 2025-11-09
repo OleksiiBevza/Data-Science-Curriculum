@@ -46,8 +46,8 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
 |:-----------|:-------------------------------------|
 | **Data structures** | The course includes several books with corresponding code solutions (learners may use them interchangeably). Prerequisites: Preparation to computer science, Introduction to computer science with Python. Accompanying materials with code: &nbsp;&nbsp;&nbsp; [Set 2](https://github.com/mjwestcott/Goodrich) &nbsp;&nbsp;&nbsp; [Set3](https://kentdlee.github.io/CS2Plus/build/html/index.html) |
 | **Introduction to algorithms** | The course includes one book. Prerequisites: Preparation to computer science, Introduction to computer science with Python, Discrete mathematics and set theory. Accompanying video materials with practice problems: &nbsp;&nbsp;&nbsp; [Set 4](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/syllabus/) |
-| **Machine learning I** | — |
-| **Computation structures** | — |
+| **Machine learning I** | The course includes one book. Prerequisites: Calculus, Ordinary Differential Equations, Linear Algebra I, Introduction to probability and inference, Introduction to computer science with Python. Accompanying materials with code: &nbsp;&nbsp;&nbsp; [Set 5](https://github.com/probml/pml-book) |
+| **Computation structures** | The course includes one book. Accompanying materials with code and videos: &nbsp;&nbsp;&nbsp; [Set 6](https://www.youtube.com/watch?v=R0tFDXBZvKI&list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2&index=1) &nbsp;&nbsp;&nbsp; [Set 7](https://github.com/computation-structures/course?tab=readme-ov-file) |
 | **Software construction and design** | — |
 | **Databases** | — |
 | **Algorithms engineering** | — |
