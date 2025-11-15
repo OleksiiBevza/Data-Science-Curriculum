@@ -35,7 +35,7 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
 |:-----------|:-------------------------------------|
 | **Linear Algebra II** |---|
 | **Probability II** | ----- |
-| **Probability in High Dimensions** | — |
+| **High-Dimensional Statistics** | — |
 
 
 
