@@ -28,7 +28,7 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
 | **Real analysis** | — |
 | **Functional analysis** | — |
 | **Measure theory** | — |
-| **Mathematics for machine learning** | — |
+| **Mathematics for machine learning** | The course includes two books with exercises. Prerequisites: Linear Algebra, Introduction to probability and inference, Real analysis. Accompanying materials: &nbsp;&nbsp;&nbsp; [Set](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/) &nbsp;&nbsp;&nbsp; [Set]()  |
 
 ### Postgraduate
 | **Topic** | **Description** |
