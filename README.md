@@ -15,21 +15,21 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
 # Table of Contents
 - **[Mathematics](#mathematics)**
   - **[Prerequisites](#prerequisites)**
-    - [Precalculus]
+    - Precalculus
     - Calculus (Single & Multivariable)
     - Ordinary Differential Equations
     - Linear Algebra I
   - **[Undergraduate](#undergraduate)**
-    - [Introduction to Probability and Inference](#introduction-to-probability-and-inference)
-    - [Discrete Mathematics and Set Theory](#discrete-mathematics-and-set-theory)
-    - [Real Analysis](#real-analysis)
-    - [Functional Analysis](#functional-analysis)
-    - [Measure Theory](#measure-theory)
-    - [Mathematics for Machine Learning](#mathematics-for-machine-learning)
+    - Introduction to Probability and Inference
+    - Discrete Mathematics and Set Theory
+    - Real Analysis
+    - Functional Analysis
+    - Measure Theory
+    - Mathematics for Machine Learning
   - **[Postgraduate](#postgraduate)**
-    - [Linear Algebra II](#linear-algebra-ii)
-    - [Probability II](#probability-ii)
-    - [High-Dimensional Statistics](#high-dimensional-statistics)
+    - Linear Algebra II
+    - Probability II
+    - High-Dimensional Statistics
 ---
 
 
